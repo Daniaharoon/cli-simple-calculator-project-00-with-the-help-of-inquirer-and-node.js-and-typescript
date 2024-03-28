@@ -1,0 +1,22 @@
+{
+  "name": "dhk-simple-calculator",
+  "version": "2.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "types": "inquirer",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dania haroon",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
